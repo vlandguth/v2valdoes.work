@@ -26,7 +26,7 @@ $(document).ready(function () {
     });
 });
 
-var words = ['UX Designer', 'Web Designer', 'Graduate!', 'UI Designer', 'Star!', 'Creative Problem Solver', 'Forever Learner'];
+var words = ['UX Designer', 'Web Designer', 'Graduate!', 'UI Designer', 'Creative Problem Solver', 'Forever Learner'];
 setInterval(function () {
     var randomIndex = Math.floor(Math.random() * words.length);
     var randomElement = words[randomIndex];
