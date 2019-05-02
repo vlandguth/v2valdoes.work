@@ -45,6 +45,10 @@ main a:hover {
   text-decoration: none;
 }
 
+.copy .btn{
+  margin:10px 25px 0;
+}
+
 a,
 a:visited {
   text-decoration: none;
