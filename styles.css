@@ -182,7 +182,7 @@ align-items:center;
   margin:0 0 75px;
 }
 
-.copy p, .copy h4{
+.copy p, .copy h4, .copy li{
   margin:0;
   font-size: 1.3em;
   padding-left:25px;
@@ -253,7 +253,7 @@ footer{
     display:block;
   }
 
-  .copy p, .copy h4{
+  .copy p, .copy h4, .copy li{
     padding:0;
   }
 }
